@@ -319,4 +319,4 @@ Internet Explorer permite 10 MB por área de alacenamiento
         console.info(`${sitio.corto}✔ Almacén Local -> se asigna a letiable global WINDOW.`);
         window.al = almacenLocal;
     };
-})(this, this && this.define);
+})(this, this && this.define); // DUMMY 624400fb348c4cc479a27f1d

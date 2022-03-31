@@ -1,3 +1,9 @@
+# takeHomeApp (Carlos Andrés Lara Arias)
+
+Single page app built in React 18 npx CRA, Redux, StyledComponents, TailwindCSS.
+
+Just type npm start or yarn start to run the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
